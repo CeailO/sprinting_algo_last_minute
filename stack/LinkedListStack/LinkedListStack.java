@@ -1,4 +1,4 @@
-package LinkedListStack;
+package stack.LinkedListStack;
 
 public class LinkedListStack {
     private int length; // size of the list

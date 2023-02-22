@@ -1,4 +1,4 @@
-package DynamicArrayStack;
+package stack.DynamicArrayStack;
 
 public class DynamicArrayStack {
     private int maxSize;

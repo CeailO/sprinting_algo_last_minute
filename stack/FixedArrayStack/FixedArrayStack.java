@@ -1,4 +1,4 @@
-package FixedArrayStack;
+package stack.FixedArrayStack;
 
 class FixedArrayStack {
     private int capacity;
