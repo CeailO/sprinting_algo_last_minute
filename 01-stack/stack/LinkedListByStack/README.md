@@ -1,5 +1,7 @@
 # Dynamic Array Stack
 
+![](stack_impl_using_linkedlist.png "")
+
 ### Performance
 
 Let n be the number of elements in the stack. Complexities are represented as:
