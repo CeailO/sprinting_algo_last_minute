@@ -19,17 +19,14 @@ class FixedArrayStack {
         return stackArray[++top] = data;
     }
 
-    // size of stack
     public int size() {
         return top + 1;
     }
 
-    // check if stack is empty
     public boolean isEmpty() {
         return (top < 0);
     }
 
-    // stack length
     public int top() throws Exception {
         if (isEmpty())
             return -1;

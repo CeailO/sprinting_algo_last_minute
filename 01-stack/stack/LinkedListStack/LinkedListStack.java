@@ -17,8 +17,7 @@ public class LinkedListStack {
         }
         return top.data;
     }
-
-    // check if stack is empty
+    
     private boolean isEmpty() {
         return (length == 0);
     }

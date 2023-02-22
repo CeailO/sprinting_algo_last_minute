@@ -33,8 +33,6 @@ public class LinkedListQueue {
         length--;
         return data;
     }
-
-    // check if the queue is empty
     private boolean isEmpty() {
         return (length == 0);
     }

@@ -25,7 +25,6 @@ public class ArrayListStack {
         }
     }
 
-    // check if the stack is empty
     public boolean isEmpty() {
         return false;
     }

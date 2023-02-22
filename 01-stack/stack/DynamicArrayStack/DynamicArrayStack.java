@@ -47,7 +47,6 @@ public class DynamicArrayStack {
         return -1;
     }
 
-    // check if the stack is empty
     private boolean isEmpty() {
         return (top == -1);
     }
