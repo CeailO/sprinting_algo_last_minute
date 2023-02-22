@@ -1,5 +1,9 @@
 # Stack
 
+Ordered list in which insertions are done at one end (top) and deletion start at the same end (top)
+
+**LIFO** - Last In First Out
+
 Abstract Data Type
 
 `1. Fixed Array Stack`
@@ -12,8 +16,8 @@ Abstract Data Type
 
 1. Elements inserted - **PUSH**
 2. Elements removed - **POP**
-3. Popping empty stack - **UNDERFLOW**
-4. Pushing full stack - **OVERFLOW**
+3. _Popping_ empty stack - **UNDERFLOW**
+4. _Pushing_ full stack - **OVERFLOW**
 
 ### Push Operation Steps
 
@@ -31,3 +35,13 @@ Step 5: Return success
 - int **size()** : Return the number of elements stored in the stack
 - int **isEmpty()** : Indicates any element exist in the stack
 - int **isFull()** : Indicates the stack is full of elements
+
+### Application of Stack
+
+- Balancing arithmetic operations
+
+- Infix-to-postfix conversion
+
+- Page-visited history operations
+
+- Recursion operations
