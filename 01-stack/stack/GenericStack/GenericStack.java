@@ -155,12 +155,12 @@ class GenericStack<T> {
         stackStr.push("ghi");
         stackStr.push("jkl");
 
-        System.out.println("*********************Print Strings*********************");
+        System.out.println("----- Print Strings -----");
         System.out.println(stack.peek());
         System.out.println(stack.pop());
         System.out.println(stack.peek());
 
-        System.out.println("*********************Print integers*********************");
+        System.out.println("----- Print integers -----");
         System.out.println(stackStr.peek());
         System.out.println(stackStr.pop());
         System.out.println(stackStr.peek());
