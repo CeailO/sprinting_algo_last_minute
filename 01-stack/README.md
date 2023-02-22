@@ -6,6 +6,7 @@ Abstract Data Type
 `2. Dynamic Array Stack`
 `3. Linked List Stack`
 `4. Array List Stack`
+`5. Generic Stack`
 
 ### Concept
 
