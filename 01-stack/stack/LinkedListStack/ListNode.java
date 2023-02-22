@@ -1,4 +1,4 @@
-package stack.LinkedListStack;
+package LinkedListStack;
 
 public class ListNode {
     public ListNode next;

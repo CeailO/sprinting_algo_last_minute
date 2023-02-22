@@ -1,4 +1,4 @@
-package stack.GenericStack;
+package GenericStack;
 
 class GenericStack<T> {
     private static final int MINIMUM_SIZE = 1024;

@@ -1,4 +1,4 @@
-package queue.LinkedListQueue;
+package LinkedListQueue;
 
 public class ListNode {
     public ListNode next;
