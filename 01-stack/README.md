@@ -29,6 +29,16 @@ Step 4: Add element to the space location, where top pointed out
 Step 5: Return success
 ```
 
+### Pop Operation Steps
+
+```
+Step 1: Checks if the stack is empty.
+Step 2: If the stack is empty, produces an error and exit.
+Step 3: If the stack is not empty, accesses the data element at which top is pointing.
+Step 4: Decreases the value of top by 1.
+Step 5: Returns success.
+```
+
 ### Auxillary Stack Operations
 
 - int **top()** : Return the last inserted element
