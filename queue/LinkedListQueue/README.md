@@ -1,6 +1,6 @@
 # Linked List Queue
 
-![](queue_impl_using_linkedlist.png)
+![](queue_impl_using_linkedlist.png "")
 
 ### Performance
 
