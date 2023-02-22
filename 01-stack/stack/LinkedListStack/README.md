@@ -1,4 +1,4 @@
-# Dynamic Array Stack
+# Linked List Stack
 
 ![](stack_impl_using_linkedlist.png "")
 

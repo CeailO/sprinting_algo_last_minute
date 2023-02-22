@@ -1,5 +1,11 @@
 # Stack
+
 Abstract Data Type
+
+`1. Fixed Array Stack`
+`2. Dynamic Array Stack`
+`3. Linked List Stack`
+`4. Array List Stack`
 
 ### Concept
 
